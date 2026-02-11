@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "7o+IpZ2MMG8T/qKByeh4OI+hDBHnAaSBcVLiV9YmI0g=",
+  "Source": "StoreManagement.UI",
+  "BasePath": "_content/StoreManagement.UI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StoreManagement.UI\\wwwroot",
+      "Source": "StoreManagement.UI",
+      "ContentRoot": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\wwwroot\\",
+      "BasePath": "_content/StoreManagement.UI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\wwwroot\\css\\pagecss\\landingpage.css",
+      "SourceId": "StoreManagement.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\wwwroot\\",
+      "BasePath": "_content/StoreManagement.UI",
+      "RelativePath": "css/pagecss/landingpage#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cz5o58gonu",
+      "Integrity": "uIZDt07H+Xbix+hxpQ1Sqxik6uHTzwf18ANwSh9TGng=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\pagecss\\landingpage.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/pagecss/landingpage.css",
+      "AssetFile": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\wwwroot\\css\\pagecss\\landingpage.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uIZDt07H+Xbix+hxpQ1Sqxik6uHTzwf18ANwSh9TGng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Feb 2026 06:23:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uIZDt07H+Xbix+hxpQ1Sqxik6uHTzwf18ANwSh9TGng="
+        }
+      ]
+    },
+    {
+      "Route": "css/pagecss/landingpage.cz5o58gonu.css",
+      "AssetFile": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\wwwroot\\css\\pagecss\\landingpage.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uIZDt07H+Xbix+hxpQ1Sqxik6uHTzwf18ANwSh9TGng=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Feb 2026 06:23:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cz5o58gonu"
+        },
+        {
+          "Name": "label",
+          "Value": "css/pagecss/landingpage.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uIZDt07H+Xbix+hxpQ1Sqxik6uHTzwf18ANwSh9TGng="
+        }
+      ]
+    }
+  ]
+}

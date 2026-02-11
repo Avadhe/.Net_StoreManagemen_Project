@@ -1,0 +1,12 @@
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\bin\Debug\net8.0\StoreManagement.Common.deps.json
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\bin\Debug\net8.0\StoreManagement.Common.dll
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\bin\Debug\net8.0\StoreManagement.Common.pdb
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\StoreManagement.Common.csproj.AssemblyReference.cache
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\StoreManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\StoreManagement.Common.AssemblyInfoInputs.cache
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\StoreManagement.Common.AssemblyInfo.cs
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\StoreManagement.Common.csproj.CoreCompileInputs.cache
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\StoreManagement.Common.dll
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\refint\StoreManagement.Common.dll
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\StoreManagement.Common.pdb
+C:\Users\Avadhesh Dubey\Downloads\StoreManagementNewProject\StoreManagement.Common\obj\Debug\net8.0\ref\StoreManagement.Common.dll
