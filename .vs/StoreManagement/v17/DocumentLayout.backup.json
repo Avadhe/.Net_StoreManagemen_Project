@@ -1,30 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\",
+  "WorkspaceRootPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|c:\\users\\avadhesh dubey\\downloads\\storemanagementnewproject\\storemanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|c:\\users\\avadhesh dubey\\downloads\\storemanagementnewproject\\storemanagement.bal\\adapter\\authenticationadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|solutionrelative:storemanagement.bal\\adapter\\authenticationadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.ui\\views\\brand\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\views\\brand\\brands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|c:\\users\\avadhesh dubey\\downloads\\storemanagementnewproject\\storemanagement.ui\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.ui\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.ui\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\views\\landingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|c:\\users\\avadhesh dubey\\downloads\\storemanagementnewproject\\storemanagement.ui\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEA3E283-AF22-4779-AE24-DAA2F170A964}|StoreManagement.Common\\StoreManagement.Common.csproj|c:\\users\\avadhesh dubey\\downloads\\storemanagementnewproject\\storemanagement.common\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEA3E283-AF22-4779-AE24-DAA2F170A964}|StoreManagement.Common\\StoreManagement.Common.csproj|solutionrelative:storemanagement.common\\dtos\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.bal\\adapter\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|solutionrelative:storemanagement.bal\\adapter\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEA3E283-AF22-4779-AE24-DAA2F170A964}|StoreManagement.Common\\StoreManagement.Common.csproj|c:\\users\\avadhesh dubey\\downloads\\storemanagementnewproject\\storemanagement.common\\dappercontext\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEA3E283-AF22-4779-AE24-DAA2F170A964}|StoreManagement.Common\\StoreManagement.Common.csproj|solutionrelative:storemanagement.common\\dappercontext\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.bal\\adapter\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|solutionrelative:storemanagement.bal\\adapter\\brandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.bal\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|solutionrelative:storemanagement.bal\\interfaces\\ibrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA3E283-AF22-4779-AE24-DAA2F170A964}|StoreManagement.Common\\StoreManagement.Common.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.common\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA3E283-AF22-4779-AE24-DAA2F170A964}|StoreManagement.Common\\StoreManagement.Common.csproj|solutionrelative:storemanagement.common\\dtos\\branddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEA3E283-AF22-4779-AE24-DAA2F170A964}|StoreManagement.Common\\StoreManagement.Common.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.common\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEA3E283-AF22-4779-AE24-DAA2F170A964}|StoreManagement.Common\\StoreManagement.Common.csproj|solutionrelative:storemanagement.common\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CE139A5-E716-4677-9007-7BF793BBFDD0}|StoreManagement.UI\\StoreManagement.UI.csproj|solutionrelative:storemanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|d:\\personal\\storemanagement\\.net_storemanagemen_project\\storemanagement.bal\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B248BD4C-4187-412B-AA3D-C30771CEE2B0}|StoreManagement.BAL\\StoreManagement.BAL.csproj|solutionrelative:storemanagement.bal\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,108 +62,176 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{65ddf8c3-8f89-4077-a6c6-dbb8853aab13}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1650870865:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\Adapter\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagement.BAL\\Adapter\\CategoryRepository.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\Adapter\\CategoryRepository.cs",
+              "RelativeToolTip": "StoreManagement.BAL\\Adapter\\CategoryRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAD4vywAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:17:43.17Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\Program.cs",
-              "RelativeDocumentMoniker": "StoreManagement.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\Program.cs",
-              "RelativeToolTip": "StoreManagement.UI\\Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T06:55:32.299Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement.UI\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Views\\Category\\Index.cshtml*",
+              "RelativeToolTip": "StoreManagement.UI\\Views\\Category\\Index.cshtml*",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAGIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T10:31:04.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthenticationAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.BAL\\Adapter\\AuthenticationAdapter.cs",
-              "RelativeDocumentMoniker": "StoreManagement.BAL\\Adapter\\AuthenticationAdapter.cs",
-              "ToolTip": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.BAL\\Adapter\\AuthenticationAdapter.cs*",
-              "RelativeToolTip": "StoreManagement.BAL\\Adapter\\AuthenticationAdapter.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T06:54:50.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\Views\\LandingPage\\Index.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement.UI\\Views\\LandingPage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\Views\\LandingPage\\Index.cshtml",
-              "RelativeToolTip": "StoreManagement.UI\\Views\\LandingPage\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "brands.cshtml",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Views\\Brand\\brands.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement.UI\\Views\\Brand\\brands.cshtml",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Views\\Brand\\brands.cshtml",
+              "RelativeToolTip": "StoreManagement.UI\\Views\\Brand\\brands.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-11T06:53:06.276Z",
+              "WhenOpened": "2026-02-13T10:31:05.645Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\Views\\Home\\Login.cshtml",
-              "RelativeDocumentMoniker": "StoreManagement.UI\\Views\\Home\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\Views\\Home\\Login.cshtml",
-              "RelativeToolTip": "StoreManagement.UI\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement.UI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StoreManagement.UI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-11T06:25:03.527Z",
+              "WhenOpened": "2026-02-14T12:33:07.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "StoreManagement.UI\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "StoreManagement.UI\\Controllers\\BrandController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:35:22.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BrandRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\Adapter\\BrandRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagement.BAL\\Adapter\\BrandRepository.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\Adapter\\BrandRepository.cs",
+              "RelativeToolTip": "StoreManagement.BAL\\Adapter\\BrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:15:05.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBrandRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\Interfaces\\IBrandRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagement.BAL\\Interfaces\\IBrandRepository.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\Interfaces\\IBrandRepository.cs",
+              "RelativeToolTip": "StoreManagement.BAL\\Interfaces\\IBrandRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:17:45.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BrandDto.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\DTOs\\BrandDto.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Common\\DTOs\\BrandDto.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\DTOs\\BrandDto.cs",
+              "RelativeToolTip": "StoreManagement.Common\\DTOs\\BrandDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:40:55.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\DTOs\\User.cs",
-              "RelativeDocumentMoniker": "StoreManagement.Common\\DTOs\\User.cs",
-              "ToolTip": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\DTOs\\User.cs",
-              "RelativeToolTip": "StoreManagement.Common\\DTOs\\User.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T06:24:31.712Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Views\\LandingPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreManagement.UI\\Views\\LandingPage\\Index.cshtml",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Views\\LandingPage\\Index.cshtml",
+              "RelativeToolTip": "StoreManagement.UI\\Views\\LandingPage\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwDcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-13T10:27:46.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "DapperContext.cs",
-              "DocumentMoniker": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\DapperContext\\DapperContext.cs",
-              "RelativeDocumentMoniker": "StoreManagement.Common\\DapperContext\\DapperContext.cs",
-              "ToolTip": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\DapperContext\\DapperContext.cs",
-              "RelativeToolTip": "StoreManagement.Common\\DapperContext\\DapperContext.cs",
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "StoreManagement.UI\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "StoreManagement.UI\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4vx4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:26:57.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Common\\DTOs\\CategoryDto.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "StoreManagement.Common\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:41:18.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Program.cs",
+              "RelativeDocumentMoniker": "StoreManagement.UI\\Program.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\Program.cs",
+              "RelativeToolTip": "StoreManagement.UI\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T10:42:34.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "StoreManagement.BAL\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "StoreManagement.BAL\\Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T06:24:22.526Z",
+              "WhenOpened": "2026-02-13T10:17:45.008Z",
               "EditorCaption": ""
             }
           ]

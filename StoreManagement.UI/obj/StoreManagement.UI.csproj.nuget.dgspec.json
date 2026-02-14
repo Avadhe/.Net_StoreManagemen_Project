@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\StoreManagement.UI.csproj": {}
+    "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\StoreManagement.UI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.BAL\\StoreManagement.BAL.csproj": {
+    "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\StoreManagement.BAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.BAL\\StoreManagement.BAL.csproj",
+        "projectUniqueName": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\StoreManagement.BAL.csproj",
         "projectName": "StoreManagement.BAL",
-        "projectPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.BAL\\StoreManagement.BAL.csproj",
-        "packagesPath": "C:\\Users\\Avadhesh Dubey\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.BAL\\obj\\",
+        "projectPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\StoreManagement.BAL.csproj",
+        "packagesPath": "C:\\Users\\Kumar Satyam\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Avadhesh Dubey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kumar Satyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj": {
-                "projectPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj"
+              "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj": {
+                "projectPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj"
               }
             }
           }
@@ -48,7 +48,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -79,24 +79,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj": {
+    "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj",
+        "projectUniqueName": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj",
         "projectName": "StoreManagement.Common",
-        "projectPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj",
-        "packagesPath": "C:\\Users\\Avadhesh Dubey\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\obj\\",
+        "projectPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj",
+        "packagesPath": "C:\\Users\\Kumar Satyam\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Avadhesh Dubey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kumar Satyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -123,7 +123,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -158,24 +158,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\StoreManagement.UI.csproj": {
+    "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\StoreManagement.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\StoreManagement.UI.csproj",
+        "projectUniqueName": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\StoreManagement.UI.csproj",
         "projectName": "StoreManagement.UI",
-        "projectPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\StoreManagement.UI.csproj",
-        "packagesPath": "C:\\Users\\Avadhesh Dubey\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.UI\\obj\\",
+        "projectPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\StoreManagement.UI.csproj",
+        "packagesPath": "C:\\Users\\Kumar Satyam\\.nuget\\packages\\",
+        "outputPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Avadhesh Dubey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kumar Satyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -190,11 +190,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.BAL\\StoreManagement.BAL.csproj": {
-                "projectPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.BAL\\StoreManagement.BAL.csproj"
+              "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\StoreManagement.BAL.csproj": {
+                "projectPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.BAL\\StoreManagement.BAL.csproj"
               },
-              "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj": {
-                "projectPath": "c:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj"
+              "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj": {
+                "projectPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj"
               }
             }
           }
@@ -209,7 +209,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -247,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

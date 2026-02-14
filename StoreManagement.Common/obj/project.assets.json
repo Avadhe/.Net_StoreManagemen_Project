@@ -1818,23 +1818,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Avadhesh Dubey\\.nuget\\packages\\": {},
+    "C:\\Users\\Kumar Satyam\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj",
+      "projectUniqueName": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj",
       "projectName": "StoreManagement.Common",
-      "projectPath": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\StoreManagement.Common.csproj",
-      "packagesPath": "C:\\Users\\Avadhesh Dubey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Avadhesh Dubey\\Downloads\\StoreManagementNewProject\\StoreManagement.Common\\obj\\",
+      "projectPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\StoreManagement.Common.csproj",
+      "packagesPath": "C:\\Users\\Kumar Satyam\\.nuget\\packages\\",
+      "outputPath": "D:\\Personal\\StoreManagement\\.Net_StoreManagemen_Project\\StoreManagement.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Avadhesh Dubey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Kumar Satyam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1861,7 +1861,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -1896,7 +1896,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.103/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

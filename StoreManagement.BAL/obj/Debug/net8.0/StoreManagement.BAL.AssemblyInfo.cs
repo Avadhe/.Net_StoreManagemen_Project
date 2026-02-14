@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoreManagement.BAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc448ebad5896b908245005b45c809ba3f3868fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoreManagement.BAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoreManagement.BAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

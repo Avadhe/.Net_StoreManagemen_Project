@@ -39,19 +39,38 @@
         <h2 class="fs-5 mb-3">Quick starts</h2>
 
         <div class="row g-3">
+            <div class="col-xl-3 col-md-6">
+                @* <a asp-controller="Category" asp-action="Index" class="quick-tile"> *@
+                <a href="/Category/Index" class="quick-tile">
+                    <div class="quick-icon">
+                        <i class="bi bi-tags"></i>
+                    </div>
+                    <div>Categories</div>
+                </a>
+            </div>
+
+            
+         
+                <div class="col-xl-3 col-md-6">
+                <a href="@Url.Action("brands", "Brand")" class="quick-tile">
+                        <div class="quick-icon">
+                            <i class="bi bi-award-fill"></i>
+                        </div>
+                        <div>Brand</div>
+                    </a>
+                </div>
             <div class="col-xl-3 col-md-6"><a href="#" class="quick-tile"><div class="quick-icon"><i class="bi bi-cash-coin"></i></div><div>Daily Earnings Overview</div></a></div>
             <div class="col-xl-3 col-md-6"><a href="#" class="quick-tile"><div class="quick-icon"><i class="bi bi-gift-fill"></i></div><div>Promotions & Offers</div></a></div>
             <div class="col-xl-3 col-md-6"><a href="#" class="quick-tile"><div class="quick-icon"><i class="bi bi-people"></i></div><div>Customer Feedback</div></a></div>
             <div class="col-xl-3 col-md-6"><a href="#" class="quick-tile"><div class="quick-icon"><i class="bi bi-receipt"></i></div><div>Supplier Invoices</div></a></div>
         </div>
     </div>
-
-    <script src="~/js/site.js"></script>
-    <script>
-        setTimeout(() => {
-            document.getElementById("skel").classList.add("hidden");
-            document.getElementById("content").classList.remove("hidden");
-        }, 800);
-    </script>
 </body>
 </html>
+@* <script src="~/js/site.js"></script> *@
+<script>
+    setTimeout(() => {
+        document.getElementById("skel").classList.add("hidden");
+        document.getElementById("content").classList.remove("hidden");
+    }, 800);
+</script>
